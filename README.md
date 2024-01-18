@@ -19,5 +19,7 @@ git push --set-upstream origin [your-name]
 ```
 - Make a pull request from your branch to the main branch using github.com 
 
+- Review two pull requests
+
 ## Tomiwa Ibrahim
 Tomiwa Ibrahim
