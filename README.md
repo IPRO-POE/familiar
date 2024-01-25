@@ -23,3 +23,6 @@ git push --set-upstream origin [your-name]
 
 ## Tomiwa Ibrahim
 Tomiwa Ibrahim
+
+## Josh Reginaldo
+Josh Reginaldo
