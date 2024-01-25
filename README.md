@@ -33,5 +33,8 @@ Ivan Tejeda
 ## Christopher Mocha
 Christopher Mocha
 
+## Josh Reginaldo
+Josh Reginaldo
+
 ## Jungwoo Hwang
 Jungwoo Hwang
