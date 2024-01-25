@@ -24,6 +24,9 @@ git push --set-upstream origin [your-name]
 ## Tomiwa Ibrahim
 Tomiwa Ibrahim
 
+## Sameer Kajani
+Sameer Kajani
+
 ## Ivan Tejeda
 Ivan Tejeda
 
