@@ -26,3 +26,9 @@ Tomiwa Ibrahim
 
 ## Sameer Kajani
 Sameer Kajani
+
+## Ivan Tejeda
+Ivan Tejeda
+
+## Christopher Mocha
+Christopher Mocha
